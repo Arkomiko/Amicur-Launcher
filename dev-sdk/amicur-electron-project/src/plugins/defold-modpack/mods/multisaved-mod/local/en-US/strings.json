@@ -1,0 +1,18 @@
+{
+  "Shared saves": "Shared saves",
+  "Save game": "Save game",
+  "Refresh": "Refresh",
+  "Shared": "Shared",
+  "Release mod": "Release mod",
+  "Game folder": "Game folder",
+  "No save files": "No save files",
+  "Close": "Close",
+  "Loading…": "Loading…",
+  "Could not load this save. Check that it is compatible with this release.": "Could not load this save. Check that it is compatible with this release.",
+  "Saving…": "Saving…",
+  "Replace the existing browser save slots with this bundle?": "Replace the existing browser save slots with this bundle?",
+  "mod.name": "Shared saves",
+  "mod.description": "Adds shared .save files to the game’s Saves menu.",
+  "Save location": "Save location",
+  "This release": "This release"
+}

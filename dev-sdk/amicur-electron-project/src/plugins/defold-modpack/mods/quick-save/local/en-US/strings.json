@@ -1,0 +1,9 @@
+{
+  "Saved": "Saved",
+  "Quick save created": "Quick save created",
+  "Close": "Close",
+  "Quick save (F5)": "Quick save (F5)",
+  "Quick saves": "Quick saves",
+  "mod.name": "Quick saves",
+  "mod.description": "F5 saves the current scene. F9 loads the latest of three quick saves."
+}

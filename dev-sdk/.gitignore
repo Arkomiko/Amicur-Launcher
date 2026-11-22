@@ -1,0 +1,7 @@
+node_modules/
+build/
+out-dev/
+internal-build/
+bootstrap/payload.zip
+*.log
+bootstrap/mirror_windows_amd64.syso

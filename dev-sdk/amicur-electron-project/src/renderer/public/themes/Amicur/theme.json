@@ -1,0 +1,34 @@
+{
+  "id": "Amicur",
+  "name": "Amicur",
+  "tone": "dark",
+  "colours": {
+    "back": "#282132",
+    "rail": "#191522",
+    "surface": "#141318",
+    "lift": "#211f29",
+    "edge": "#665e78",
+    "text": "#fbf7fe",
+    "subtle": "#d0c9da",
+    "ink": "#171322",
+    "accent": "#94bbe9",
+    "on-accent": "#191420",
+    "shadow": "#221a343f",
+    "wallpaper-top": "#2118273a",
+    "wallpaper-bottom": "#1d142458",
+    "cover-tint": "#1a142671",
+    "cover-ink": "#fff8fa"
+  },
+  "backgrounds": [
+    {
+      "from": "06:00",
+      "to": "18:00",
+      "image": "images/player-bedroomd.png"
+    },
+    {
+      "from": "18:00",
+      "to": "06:00",
+      "image": "images/player-bedroomn.png"
+    }
+  ]
+}

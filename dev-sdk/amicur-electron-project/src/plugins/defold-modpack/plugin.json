@@ -1,0 +1,6 @@
+{
+  "id": "defold-modpack",
+  "type": "modpack",
+  "api": 1,
+  "enabled": true
+}

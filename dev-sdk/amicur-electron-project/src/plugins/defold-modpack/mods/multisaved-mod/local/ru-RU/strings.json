@@ -1,0 +1,18 @@
+{
+  "Shared saves": "Общие сохранения",
+  "Save game": "Сохранить игру",
+  "Refresh": "Обновить",
+  "Shared": "Общее",
+  "Release mod": "Мод этой версии",
+  "Game folder": "Из папки игры",
+  "No save files": "Файлов пока нет",
+  "Close": "Закрыть",
+  "Loading…": "Загрузка…",
+  "Could not load this save. Check that it is compatible with this release.": "Не удалось открыть сохранение. Проверь совместимость с релизом.",
+  "Saving…": "Сохранение…",
+  "Replace the existing browser save slots with this bundle?": "Заменить существующие браузерные слоты этим архивом?",
+  "mod.name": "Общие сохранения",
+  "mod.description": "Добавляет общие файлы .save в меню сохранений игры.",
+  "Save location": "Папка сохранений",
+  "This release": "Эта версия"
+}

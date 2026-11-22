@@ -1,0 +1,21 @@
+{
+  "id": "mono-dark",
+  "name": {
+    "en-US": "Dark",
+    "ru-RU": "Тёмная"
+  },
+  "tone": "dark",
+  "colours": {
+    "back": "#1b191e",
+    "rail": "#151317",
+    "surface": "#252229",
+    "lift": "#2f2b34",
+    "edge": "#615566",
+    "text": "#fff7fc",
+    "subtle": "#decfdb",
+    "ink": "#fff7fc",
+    "accent": "#f4b8d1",
+    "on-accent": "#291724",
+    "shadow": "#120b1b45"
+  }
+}

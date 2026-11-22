@@ -1,0 +1,21 @@
+{
+  "id": "mono-light",
+  "name": {
+    "en-US": "Light",
+    "ru-RU": "Светлая"
+  },
+  "tone": "light",
+  "colours": {
+    "back": "#f6f1f8",
+    "rail": "#332443",
+    "surface": "#fffcff",
+    "lift": "#eee5f2",
+    "edge": "#b8a7c3",
+    "text": "#2d1e38",
+    "subtle": "#56445f",
+    "ink": "#2d1e38",
+    "accent": "#532a69",
+    "on-accent": "#fffaff",
+    "shadow": "#34213925"
+  }
+}
